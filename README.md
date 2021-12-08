@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **paula_mpl@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iP1XraB4WHv5GE5cZB2xmSCFdvXrtwXQ/view?usp=sharing](https://drive.google.com/file/d/1iP1XraB4WHv5GE5cZB2xmSCFdvXrtwXQ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Vc6S3KtMPFKZvkoRMBDllh-QlgHfOpuk/view?usp=sharing](https://drive.google.com/file/d/1iP1XraB4WHv5GE5cZB2xmSCFdvXrtwXQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
