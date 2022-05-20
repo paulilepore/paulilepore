@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paula Lepore</h1>
-<h3 align="center">A passionate full-stack developer from Argentina, living in 🇫🇷.</h3>
+<h3 align="center">A passionate full-stack developer from Argentina, living in 🇫🇷. I completed 'Le Wagon' coding bootcamp on December 2021.</h3>
 
 - 🔭 I’m currently working on [Plume]
+- 🔭 My project for Le Wagon: [Be on Time](www.beontime.online)
 
 - 🌱 I’m currently learning **Python and Django Full Stack Web Developer - UDEMY**
 - and also I’m learning about **Smart contracts, Blockchain, Solidity**
